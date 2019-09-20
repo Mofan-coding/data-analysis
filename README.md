@@ -1,14 +1,10 @@
 # Decisions Analytics Project Title
-I want to Retrieve data of comments and discussions toward coffee from twitter. I want to derive some insights from these comments to help
-coffee industry launch new product and improve market strategy.
+I want to retrieve data (through web scraping) from IMDB (film resource database).Try to figure out the inner connection between the movie length,categogy.etc , find some insights and get a better understanding of the film industry.
+
 # Industry Question
 These are the questions that I want to investigate
 
-1. Regression analysis project
-Use web Scraping to retrieve data from IMDB (The world's largest film resource database). Clean data and try to figure out the inner connection between the movie length, category, and voting rate, etc.
+1. What kind of category of movies get higher rate?
+2. If there's some connection between the length of movies and rating score?
+3. What factors will affect the movie box office？
 
-2. Text analysis project
-Retrieve data of comments and discussions toward coffee rom twitter. Clean data and construct word cloud to derive some insights from these comments. Like what the most frequently used word when talking about coffee?
-
-3. Stock data analysis and make some predictions towards its trends
-Use API to get instant stock data and price information.  Process these data to analysis the price trend, and figure out a certain algorism to make some predictions.
